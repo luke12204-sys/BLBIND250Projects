@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "Barack Obama",
+        "Phone": "(123) 456-7891",
+        "Email": "Barack@TheWhiteHouz.gov",
+        "Address": "(Formerly) The White House"
+    },
+    {
+        "Name": "O.J. Simpson",
+        "Phone": "505-5050",
+        "Email": "Guilty@Prison.gov",
+        "Address": "Room #45, San Francisco City Jail, San Francisco CA, 11111"
+    },
+    {
+        "Name": "John Doe",
+        "Phone": "(123) 456-7890",
+        "Email": "E@mail.com",
+        "Address": "000 1st Ave. Townville America, 11111"
+    }
+]
