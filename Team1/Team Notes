@@ -1,0 +1,38 @@
+HapPy Paint
+
+Features
+
+Required:
+
+    1. Create a paint/sketch desktop application which allows the user to draw with a   mouse.
+    2. Support multiple colors (minimum of 4 red green blue black)
+    3. Implement an erase function to erase all or parts of the screen
+    4. Implement a pen width function to adjust the pen width
+    5. Document your code to the level of an intermediate developer reader
+    6. Screen shot from each developer’s system
+    7. Feedback showing which color is currently selected
+    8. Resizable window
+
+Additional features (+30pts)
+
+    1. Implement basic fundamental geometric shapes (square, circle, triangle, etc.,)
+    2. Implement a copy paste function that can copy a selection and paste it
+    elsewhere on the screen
+    3. Implement an undo function with memory of last 5 actions
+    4. Implement “spray paint” or other interesting feature
+    5. Implement a save and load feature to save your drawings
+    6. Wild card – something you and your partner think is cool! (and you think I will
+    also)
+
+Ideas:
+
+    Save and Load feature :)
+    Undo and Redo :)
+    Stamps: A basic stamp system, to impliment shapes, and add additional fun things into. 
+    Color Wheel: RGB + CMYB :)
+    Set Canvas of 512x512, so we can add frames, and set backgrounds
+    Color Selector: Select a used color
+    Add a black outline pen. 
+    Fake Text Block: A fake text stamp, that just types the text "Hello Wade"
+
+    
